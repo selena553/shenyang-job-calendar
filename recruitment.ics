@@ -5,3 +5,18 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:沈阳招聘会
 X-WR-TIMEZONE:Asia/Shanghai
 END:VCALENDAR
+BEGIN:VEVENT
+UID:sjzu-alumni-fair-2026-11-11@shenyang-job-calendar
+DTSTAMP:20261107T163100Z
+DTSTART;TZID=Asia/Shanghai:20261111T13300000
+DTEND;TZID=Asia/Shanghai:20261111T170000
+SUMMARY:沈阳建筑大学2026年校友企业专场招聘会暨秋季校园
+ 双选会（第四场）
+LOCATION:沈阳建筑大学建筑历史文化长廊
+DESCRIPTION:主办方：沈阳建筑大学\n核验日期：2026-11-08\n公
+ 告：https://syjzdx.bysjy.com.cn/detail/jobfair?id=31854\n备注：2026
+ 届已毕业硕士及校外社会求职者入场资格待确认；42家企
+ 业、111个职位。
+URL:https://syjzdx.bysjy.com.cn/detail/jobfair?id=31854
+END:VEVENT
+END:VCALENDAR
