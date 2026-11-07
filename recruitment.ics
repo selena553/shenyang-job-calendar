@@ -4,7 +4,6 @@ PRODID:-//Shenyang Job Calendar//CN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:沈阳招聘会
 X-WR-TIMEZONE:Asia/Shanghai
-END:VCALENDAR
 BEGIN:VEVENT
 UID:sjzu-alumni-fair-2026-11-11@shenyang-job-calendar
 DTSTAMP:20261107T163100Z
