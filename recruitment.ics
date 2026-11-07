@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:sjzu-alumni-fair-2026-11-11@shenyang-job-calendar
 DTSTAMP:20261107T163100Z
-DTSTART;TZID=Asia/Shanghai:20261111T13300000
+DTSTART;TZID=Asia/Shanghai:20261111T133000
 DTEND;TZID=Asia/Shanghai:20261111T170000
 SUMMARY:沈阳建筑大学2026年校友企业专场招聘会暨秋季校园
  双选会（第四场）
